@@ -152,7 +152,7 @@ export default function Home() {
 
 
       {/* Footer */}
-      <footer className='bg-white'>
+      <footer className='bg-white text-center px-2'>
         <div className="flex text-indigo-900 justify-center py-5">
           <span>Copyright &copy;2025 | KimmyCode - Muhammad Lukmanulhakim</span>
         </div>
