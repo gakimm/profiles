@@ -4,7 +4,6 @@ import "./globals.css";
 import Navbar from "../components/layout/Navbar";
 import LoadingClient from "../components/layout/LoadingClient";
 import { Toaster } from "react-hot-toast";
-import Head from "next/head";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
