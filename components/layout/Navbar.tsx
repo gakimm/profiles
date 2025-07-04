@@ -2,12 +2,11 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { Menu, X, Search } from "lucide-react";
+import { Menu, X } from "lucide-react";
 import Image from "next/image";
 import clsx from "clsx"; // optional, helps with conditional classNames
 
 export default function Navbar() {
-  const [search, setSearch] = useState("");
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
   useEffect(() => {

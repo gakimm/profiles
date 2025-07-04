@@ -21,7 +21,7 @@ export default function Home() {
          {/* Konten di atas video */}
           <div className="relative z-10 px-4">
               <h1 className="text-5xl font-bold mb-4">
-                  Hi, I'm {' '}
+                  Hi, I&#39;m{' '}
                   <span className="text-indigo-600">
                       <Typewriter
                       words={['Lukman', 'Frontend Engineer', 'Web Developer', 'what you need']}
@@ -64,12 +64,12 @@ export default function Home() {
           <h2 className="text-3xl font-bold mb-4">About Me</h2>
           <p className="text-lg mb-6">
             Hi mate! My name is <strong>Muhammad Lukmanulhakim </strong>, <br />but you can also call me <strong>Lukman</strong>.
-            I'm a Frontend Engineer with 5 years of experience. Previously, I worked mostly with Angular (up to version 14) and always kept up with the latest frontend trends. 
-            Recently, I’ve started learning React.js and Next.js including this website, which was built using Next.js! 😄
+            I&#39;m a Frontend Engineer with 5 years of experience. Previously, I worked mostly with Angular (up to version 14) and always kept up with the latest frontend trends. 
+            Recently, I&#39;ve started learning React.js and Next.js including this website, which was built using Next.js! 😄
             <br /><br/>
-              🚀 Good news! I'm currently open to new opportunities whether it's a full-time role, freelance projects, or contract-based work.
+              🚀 Good news! I&#39;m currently open to new opportunities whether it&#39;s a full-time role, freelance projects, or contract-based work.
               <br />
-              If you're hiring or have something exciting in mind, feel free to <a href="#contact" className="text-blue-600 underline hover:text-blue-800 font-semibold">contact me here</a>.
+              If you&#39;re hiring or have something exciting in mind, feel free to <a href="#contact" className="text-blue-600 underline hover:text-blue-800 font-semibold">contact me here</a>.
               <br /> <br/>
               Let’s make some juicy art together! ^^
 
@@ -107,7 +107,7 @@ export default function Home() {
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-6">Contact Me</h2>
           <p className="mb-10 text-lg text-gray-600">
-            Looking to collaborate or hiring a frontend engineer? I'm currently open to work and would love to hear from you. Let's connect!
+            Looking to collaborate or hiring a frontend engineer? I&#39;m currently open to work and would love to hear from you. Let&#39;s connect!
           </p>
           
           <div className="grid gap-6 md:grid-cols-3">
