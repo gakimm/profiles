@@ -34,6 +34,7 @@ export const metadata: Metadata = {
     title: "KimmyCode | Muhammad Lukmanulhakim | Frontend Developer",
     description:
       "Frontend engineer berpengalaman dengan Angular & ReactJS. Siap bantu proyek digital kamu.",
+    url: "https://kimmycode.online",
     images: [
       {
         url: "/project-images/closeup-profile.png",
